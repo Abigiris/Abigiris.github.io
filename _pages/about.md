@@ -18,8 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a Ph.D. student at Department of Computer Science and Technology, [Nanjing University](https://www.nju.edu.cn/), under the supervision of Prof. Baowen Xu and [Lin Chen](https://cs.nju.edu.cn/chenlin/index.htm).
+I received my B.Sc. degree in Computer Science and Technology from Nanjing University in 2020.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests include *software analysis and testing (+AI)* and *open-source ecosystem*.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
