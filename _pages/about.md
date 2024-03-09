@@ -11,8 +11,7 @@ profile:
   more_info: >
     <p>Department of Computer Science and Technology</p>
     <p>Nanjing University</p>
-    <p>163 Xianlin Avenue, Qixia District</p>
-    <p>Nanjing, Jiangsu Province, China, 210023</p>
+    <p>163 Xianlin Avenue, Qixia District, Nanjing, China 210023</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
