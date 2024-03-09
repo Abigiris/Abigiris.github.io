@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Email: ymguo@smail.nju.edu.cn
+subtitle: Email&#58 ymguo@smail.nju.edu.cn
 
 profile:
   align: right
