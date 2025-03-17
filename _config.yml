@@ -13,7 +13,7 @@ title                    : "Yimeng Guo"
 title_separator          : "-"
 name                     : &name "Yimeng Guo"
 description              : &description "School of Computer Science, Nanjing University"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://abigiris.github.io"
+url                      : "https://abigiris.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Abigiris/Abigiris.github.io"
 
