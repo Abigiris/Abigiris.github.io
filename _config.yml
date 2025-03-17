@@ -25,11 +25,12 @@ author:
   avatar           : "profile.png"
   name             : "Yimeng Guo"
   pronouns         : # example: "she/her"  
-  bio              : "School of Computer Science,\nNanjing University"
-  location         : "163 Xianlin Avenue,\n\
-                      Qixia District,\n\
-                      Nanjing, Jiangsu Province,\n\
-                      China, 210023"
+  bio              : "School of Computer Science, Nanjing University"
+  location         : |
+                      "163 Xianlin Avenue,
+                      Qixia District,
+                      Nanjing, Jiangsu Province,
+                      China, 210023
   employer         : "Nanjing University"
   uri              : # URL
   email            : "ymguo@smail.nju.edu.cn" 
