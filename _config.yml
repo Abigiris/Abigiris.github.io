@@ -24,9 +24,9 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yimeng Guo"
-  pronouns         : "she/her" # example: "she/her"  
-  bio              : "School of Computer Science, Nanjing University"
-  location         : "163 Xianlin Avenue, Qixia District, Nanjing, Jiangsu Province, China, 210023"
+  pronouns         : # example: "she/her"  
+  bio              : "School of Computer Science,\nNanjing University"
+  location         : "163 Xianlin Avenue,\nQixia District,\nNanjing, Jiangsu Province,\n China, 210023"
   employer         : "Nanjing University"
   uri              : # URL
   email            : "ymguo@smail.nju.edu.cn" 
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
