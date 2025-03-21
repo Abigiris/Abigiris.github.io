@@ -21,7 +21,7 @@ News
 
 Publications
 ======
-- **Yimeng Guo**, Zhifei Chen, Lu Xiao, Lin Chen*, Yanhui Li, Yuming Zhou. Understanding and Identifying Technical Debt in the Co-Evolution of Production and Test Code. *IEEE Transactions on Software Engineering*, accepted, 2025.
+- **Yimeng Guo**, Zhifei Chen, Lu Xiao, Lin Chen*, Yanhui Li, Yuming Zhou. Understanding and Identifying Technical Debt in the Co-Evolution of Production and Test Code. *IEEE Transactions on Software Engineering*, accepted, 2025. [\[paper\]](https://ieeexplore.ieee.org/document/10934744)
 
 - **Yimeng Guo**, Zhifei Chen, Lin Chen*, Wenjie Xu, Yanhui Li, Yuming Zhou, Baowen Xu. Generating Python Type Annotations from Type Inference: How Far Are We? *ACM Transactions on Software Engineering and Methodology*, 33(5), article 123, 2024: 1-38. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3652153)
 
