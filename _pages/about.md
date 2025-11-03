@@ -28,3 +28,7 @@ Publications
 - Danni Xiao, **Yimeng Guo**, Yanhui Li, Lin Chen\*. Optimizing Search-Based Unit Test Generation with Large Language Models: An Empirical Study. *Proceedings of the 15th Asia-Pacific Symposium on Internetware (Internetware'24)*, 71-80. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3671016.3674813)
 
 - Wenjie Xu, Lin Chen\*, Chenghao Su, **Yimeng Guo**, Yanhui Li, Yuming Zhou, Baowen Xu. How Well Static Type Checkers Work with Gradual Typing? A Case Study on Python. *IEEE/ACM 31st International Conference on Program Comprehension (ICPC'23)*, 71-80. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/10173949)
+
+Personal Interests
+======
+Outside of research, I enjoy listening to rock music, reading detective stories, and watching art films. I have also recently started learning photography.
