@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Yimeng Guo received the B.Sc. degree in Computer Science and Technology from Nanjing University, China, in 2020. She is currently pursuing the Ph.D. degree with the School of Computer Science, Nanjing University, under the supervision of [Prof. Lin Chen](https://cs.nju.edu.cn/chenlin/) and [Prof. Yuming Zhou](https://cs.nju.edu.cn/zhouyuming/index.htm). 
+Yimeng Guo received the B.Sc. degree in Computer Science and Technology from Nanjing University, China, in 2020. She is currently pursuing the Ph.D. degree with the School of Computer Science, Nanjing University, under the supervision of [Prof. Lin Chen](https://software.nju.edu.cn/lchen/index.html) and [Prof. Yuming Zhou](https://cs.nju.edu.cn/zhouyuming/index.htm). 
 Her research interests include:
 - Software Analysis and Testing
 - Software Evolution and Maintenance
