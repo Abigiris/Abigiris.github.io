@@ -17,7 +17,7 @@ News
 ======
 - \[2025-03-10\] Our journal paper "Understanding and Identifying Technical Debt in the Co-Evolution of Production and Test Code" has been accepted by TSE.
 - \[2024-06-20\] Our conference paper "Optimizing Search-Based Unit Test Generation with Large Language Models: An Empirical Study" has been accepted to Internetware 2024.
-- \[2024-02-22\] Our journal paper "enerating Python Type Annotations from Type Inference: How Far Are We?" has been accepted by TOSEM.
+- \[2024-02-22\] Our journal paper "Generating Python Type Annotations from Type Inference: How Far Are We?" has been accepted by TOSEM.
 
 Publications
 ======
